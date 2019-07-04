@@ -46,8 +46,8 @@ All story cards are prioritized based on importance vs effort to accomplish it.
 
 ### In Development
 
-When the card is in this stage and due extern facts can't be moved to Ready For Review stage, add `blocked` label
-to the card, and leave it in this stage
+When the User Story is in this stage and due some reason it can't be moved to Ready For Review stage, add `blocked` label
+to the card leaving it in this stage. Also, comment on the User Story card explaining why it got blocked,
 
 #### Ready for Review
 

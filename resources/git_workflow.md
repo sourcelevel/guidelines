@@ -44,6 +44,11 @@ You can upload files to use as example, add labels and select the project for it
 
 All story cards are prioritized based on importance vs effort to accomplish it.
 
+### In Development
+
+When the User Story is in this stage and due some reason it can't be moved to Ready For Review stage, add `blocked` label
+to the card leaving it in this stage. Also, comment on the User Story card explaining why it got blocked,
+
 #### Ready for Review
 
 When moving cards to this stage, you should have a working solution and an open Pull

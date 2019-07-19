@@ -20,6 +20,7 @@ Example of a nice PR title
 ```
 
 * Title must be capitalized and conjugated in the present
+* Title must be 50 chars or less
 * You don't need to worry about User Story number in the title, since it is present
 in branch name
 

@@ -33,7 +33,14 @@ In your `~/.vimrc` add:
   * `set ts=2 sts=2 sw=2 expandtab`
   * `set autoindent`
 
-## No trailing whitespaces or line endings
+### Vscode
+
+Edit user preferences (`⌘ + , / Ctrl + ,`), on `Text Editor`, check:
+
+  * `Auto Indent`
+  * `Format On Type`
+
+## No trailing whitespaces
 
 Avoid committing useless whitespaces or trailing lines at end of files.
 
@@ -55,3 +62,8 @@ autocmd BufWritePre * :%s/\s\+$//e
 ```
 
 This will automatically remove trailing whitespaces on saving files.
+
+### Vscode
+
+Ensure that you have the trailing spaces package installed and its `Remove
+Trailing Whitespace` setting enabled.

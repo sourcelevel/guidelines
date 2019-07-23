@@ -63,7 +63,7 @@ autocmd BufWritePre * :%s/\s\+$//e
 
 This will automatically remove trailing whitespaces on saving files.
 
-### Vscode
+### VS Code
 
 Ensure that you have the trailing spaces package installed and its `Remove
 Trailing Whitespace` setting enabled.

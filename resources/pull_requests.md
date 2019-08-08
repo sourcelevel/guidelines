@@ -42,18 +42,17 @@ do code review
 
 ### Reviewers
 
-* You can select `Sourcelevel` team/organization as `Reviewers` to notify everybody, so them anyone reviews your PR.
-* If you want a review from a specific member, you can select him too.
+* You can select the whole team you're working with or people individually. As we use
+[Pull Reminders](https://pullreminders.com/), it will take care about notifying everyone
 * Sure that, if you want, you can indicate `Reviewers` that has more knowledge about that
 piece of code you're changing or ask for some extra guidance on it
-* Select as Reviewer who did'nt participated of development of the code
+* Select as Reviewer who didn't participated of development of the code
 
 ### Assignees
 
-Assignees are persons that worked with you in your PR or specific issues.
+Assignees are members that worked with you in your PR or specific issues.
 
-* Select the developers who paired with you
-* Select members that contributing with the feature/chore/bug
+* Select yourself and people that pair programmed with you
 
 ## Receiving reviews
 

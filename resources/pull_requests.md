@@ -32,13 +32,27 @@ your context to review your PR
 We already have some Pull Requests templates according to the repository, feel free to
 suggest enhancements for them.
 
-### Metadata
+### Labels
+
+Labels are a great way to organize different types of PR
 
 * Always use labels to allow filtering and better usability in listing
-* As we're a small team, there is no need to indicate `Reviewers`, as all of us probably will
 do code review
+* Select a label that best describes the purpose of PR
+
+### Reviewers
+
+* You can select the whole team you're working with or people individually. As we use
+[Pull Reminders](https://pullreminders.com/), it will take care about notifying everyone
 * Sure that, if you want, you can indicate `Reviewers` that has more knowledge about that
 piece of code you're changing or ask for some extra guidance on it
+* Select as Reviewer who didn't participated of development of the code
+
+### Assignees
+
+Assignees are members that worked with you in your PR or specific issues.
+
+* Select yourself and people that pair programmed with you
 
 ## Receiving reviews
 

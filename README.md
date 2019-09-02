@@ -26,22 +26,22 @@ First-timer? We recommend start reading `General/Editor` and then `Pull Requests
 
 ## Our Guidelines
 
-* [General/Editor](https://github.com/sourcelevel/guidelines/blob/master/resources/general.md)
-* [Commit Messages](https://github.com/sourcelevel/guidelines/blob/master/resources/commit_messages.md)
-* [Pull Requests](https://github.com/sourcelevel/guidelines/blob/master/resources/pull_requests.md)
-* [Process Workflow](https://github.com/sourcelevel/guidelines/blob/master/resources/process_workflow.md)
-* [Git Workflow](https://github.com/sourcelevel/guidelines/blob/master/resources/git_workflow.md)
+  * [General/Editor](https://github.com/sourcelevel/guidelines/blob/master/resources/general.md)
+  * [Commit Messages](https://github.com/sourcelevel/guidelines/blob/master/resources/commit_messages.md)
+  * [Pull Requests](https://github.com/sourcelevel/guidelines/blob/master/resources/pull_requests.md)
+  * [Process Workflow](https://github.com/sourcelevel/guidelines/blob/master/resources/process_workflow.md)
+  * [Git Workflow](https://github.com/sourcelevel/guidelines/blob/master/resources/git_workflow.md)
 
 ## References
 
-* [Plataformatec](http://guidelines.plataformatec.com.br/)
-* [CSS Guidelines](http://cssguidelin.es/)
-* [Sass Guidelines](https://sass-guidelin.es)
-* [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
-* [CSS-Tricks - Sass Style Guide](https://css-tricks.com/sass-style-guide/)
-* [Mark Otto - Code Guide](https://github.com/mdo/code-guide)
-* [Future Friendly Style Guides](https://speakerdeck.com/lukebrooker/future-friendly-style-guides)
-* [Styleguides Examples](http://styleguides.io/examples)
+  * [Plataformatec](http://guidelines.plataformatec.com.br/)
+  * [CSS Guidelines](http://cssguidelin.es/)
+  * [Sass Guidelines](https://sass-guidelin.es)
+  * [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+  * [CSS-Tricks - Sass Style Guide](https://css-tricks.com/sass-style-guide/)
+  * [Mark Otto - Code Guide](https://github.com/mdo/code-guide)
+  * [Future Friendly Style Guides](https://speakerdeck.com/lukebrooker/future-friendly-style-guides)
+  * [Styleguides Examples](http://styleguides.io/examples)
 
 ## TODO
 

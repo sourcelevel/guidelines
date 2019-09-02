@@ -29,6 +29,7 @@ First-timer? We recommend start reading `General/Editor` and then `Pull Requests
 * [General/Editor](https://github.com/sourcelevel/guidelines/blob/master/resources/general.md)
 * [Commit Messages](https://github.com/sourcelevel/guidelines/blob/master/resources/commit_messages.md)
 * [Pull Requests](https://github.com/sourcelevel/guidelines/blob/master/resources/pull_requests.md)
+* [Process Workflow](https://github.com/sourcelevel/guidelines/blob/master/resources/process_workflow.md)
 * [Git Workflow](https://github.com/sourcelevel/guidelines/blob/master/resources/git_workflow.md)
 
 ## References

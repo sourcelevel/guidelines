@@ -64,7 +64,7 @@ Pay attention to what INVEST stands for:
 ### Unscheduled
 
 Everyone is welcome to create stories in this column, feel free to suggest new features,
-adjustments or report bugs. Its important to detail stories as much as possible, to
+adjustments or report bugs. It's important to detail stories as much as possible, to
 guarantee that everyone has enough information to work on it.
 
 You can upload files to use as example, add labels and select the project for it.

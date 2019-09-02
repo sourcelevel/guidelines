@@ -22,7 +22,7 @@ Our purpose is to define a standard way to write code in a clear and semantic fo
 
 The entire team should contribute with this repo, giving suggestions and making changes on it. Welcome!
 
-First-timer? We recommend start reading `General/Editor` and then `Pull Requests` :)
+First-timer? We recommend start reading `General/Editor` and then `Process Workflow` :)
 
 ## Our Guidelines
 

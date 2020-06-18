@@ -35,6 +35,19 @@ Be sure not to create a task such as "create a input field", or "create an API",
 
 All SMART tasks should be linked to a User Story, which should be properly detailed with its goal (it can be written using the User Story pattern), Acceptance criteria, and BDD if necessary.
 
+We are following Gherkin BD workflow to describe our User Stories, so, we have a template in ClubHouse to be used:
+
+*    Title: [Verb] [What] [Where]:
+     -    **Fix typo in Dangerzone**
+     -    **Investigate problems in GitLab Sync**
+     -    **Add search field to repositories listing in Dangerzone**
+*    Description:
+     -    **Scenario:**
+     -    **Given**
+     -    **And**
+     -    **When**
+     -    **Then**
+
 ### Epic cards
 
 The type Epic will be considered INVEST Stories to us.

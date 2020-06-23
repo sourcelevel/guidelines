@@ -38,6 +38,7 @@ All SMART tasks should be linked to a User Story, which should be properly detai
 We are following Gherkin syntax to describe our User Stories:
 
 ### Title:
+
 ```
 [Verb] [What] [Where]
 
@@ -48,13 +49,13 @@ Examples:
 ```
 
 ### Description:
+
 ```
 - Scenario:
 - Given
 - And
 - When
 - Then
-
 ```
 
 ### Epic cards

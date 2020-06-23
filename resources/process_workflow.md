@@ -35,7 +35,7 @@ Be sure not to create a task such as "create a input field", or "create an API",
 
 All SMART tasks should be linked to a User Story, which should be properly detailed with its goal (it can be written using the User Story pattern), Acceptance criteria, and BDD if necessary.
 
-We are following Gherkin BD workflow to describe our User Stories, so, we have a template in ClubHouse to be used:
+We are following Gherkin syntax to describe our User Stories:
 
 *    Title: [Verb] [What] [Where]:
      -    **Fix typo in Dangerzone**

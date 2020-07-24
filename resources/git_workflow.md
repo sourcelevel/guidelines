@@ -3,11 +3,11 @@ Git Workflow
 
 We follow some patterns on creating branches and this is related to our workflow in `ClubHouse`.
 
-If you didn't read [Pull Requests](https://github.com/sourcelevel/guidelines/blob/master/resources/pull_requests.md), we recommend to read it before this guide.
+If you didn't read [Pull Requests](https://github.com/sourcelevel/guidelines/blob/main/resources/pull_requests.md), we recommend to read it before this guide.
 
 ## Branches
 
-We work with a single stable branch: `master`. Everything that is merged into it, we assume that already passed in the `Test phase` properly.
+We work with a single stable branch: `main`. Everything that is merged into it, we assume that already passed in the `Test phase` properly.
 
 Now that you're familiar with `User Story`, let's understand how it reflects our branches and accordingly to our Pull Requests:
 
@@ -15,7 +15,7 @@ Now that you're familiar with `User Story`, let's understand how it reflects our
 
 #### User Story card
 
-First, we create a branch using `master` as the base with the following pattern:
+First, we create a branch using `main` as the base with the following pattern:
 
 * `chddd/user-story-card-title`
 
@@ -32,9 +32,9 @@ your work of this User Story card. For example, let us imagine the following sce
 
 We have a User Story `Collect issues line numbers` which its number in ClubHouse is `123`.
 
-![https://github.com/sourcelevel/guidelines/blob/master/images/user_story_flow.png](https://github.com/sourcelevel/guidelines/blob/master/images/user_story_flow.png)
+![https://github.com/sourcelevel/guidelines/blob/main/images/user_story_flow.png](https://github.com/sourcelevel/guidelines/blob/main/images/user_story_flow.png)
 
-In this case, we can start creating the branch for it using `master` as the base:
+In this case, we can start creating the branch for it using `main` as the base:
 
 ```
 git checkout -b ch123/collect-issues-line-numbers

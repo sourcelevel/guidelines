@@ -28,7 +28,6 @@ First-timer? We recommend start reading `General/Editor` and then `Process Workf
 
 We don't have a specific coding styleguide. Otherwise, we use our coding styleguide from linters, that they configurations/specifications files can be found at our [linters](https://github.com/sourcelevel/linters) repository.
 
-
 ## Our Guidelines
 
 *   [General/Editor](https://github.com/sourcelevel/guidelines/blob/master/resources/general.md)

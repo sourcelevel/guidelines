@@ -26,7 +26,7 @@ First-timer? We recommend start reading `General/Editor` and then `Process Workf
 
 ## Our Coding Styleguide
 
-We don't have a specific coding styleguide. Otherwise, we use our coding styleguide from linters, that they configurations/specifications files can be found at our [linters](https://github.com/sourcelevel/linters) repository.
+Instead of creating a specific coding styleguide for each programming language/tool that we use, we've have decided to just use linters configuration files to indicate which patterns we follow. All linters configuration files can be found in a single repository at [sourcelevel/linters](https://github.com/sourcelevel/linters).
 
 ## Our Guidelines
 

@@ -3,11 +3,11 @@ Process Workflow
 
 ## Introduction
 
-In this section we want to describe our process to create the User Stories and tasks in the ClubHouse board.
+In this section we want to describe our process to create the User Stories and tasks in the Shortcut board.
 
 ### User Story cards
 
-Each card in ClubHouse is called User Story (Story), it can be:
+Each card in Shortcut is called User Story (Story), it can be:
 
 *   Feature
 *   Chore
@@ -19,7 +19,7 @@ Examples include paying down technical debt, improving test coverage,
 upgrading library dependencies, research, devops tasks like spinning up new servers,
 database maintenance, operational tasks, writing scripts to automate those tasks, etc.
 
-We like to create the `Feature type` as SMART tasks instead of INVEST stories, so we can move short but meaningful tasks through the Clubhouse board.
+We like to create the `Feature type` as SMART tasks instead of INVEST stories, so we can move short but meaningful tasks through the Shortcut board.
 
 Each Feature task is linked to an Epic card, but we create this Epic card as an INVEST Story.
 

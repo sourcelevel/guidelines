@@ -1,7 +1,7 @@
 Git Workflow
 ============
 
-We follow some patterns on creating branches and this is related to our workflow in `ClubHouse`.
+We follow some patterns on creating branches and this is related to our workflow in `Shortcut`.
 
 If you didn't read [Pull Requests](https://github.com/sourcelevel/guidelines/blob/main/resources/pull_requests.md), we recommend to read it before this guide.
 
@@ -19,7 +19,7 @@ First, we create a branch using `main` as the base with the following pattern:
 
 * `chddd/user-story-card-title`
 
-Where `ddd` stands for Story Card number in ClubHouse, check some examples of naming User Story branches:
+Where `ddd` stands for Story Card number in Shortcut, check some examples of naming User Story branches:
 
 * `ch897/collect-issues-line-numbers`
 * `ch569/edit-reviewer-author`
@@ -30,7 +30,7 @@ Where `ddd` stands for Story Card number in ClubHouse, check some examples of na
 If you realize that a single branch won't be enough, you can create more branches to detail
 your work of this User Story card. For example, let us imagine the following scenario:
 
-We have a User Story `Collect issues line numbers` which its number in ClubHouse is `123`.
+We have a User Story `Collect issues line numbers` which its number in Shortcut is `123`.
 
 ![https://github.com/sourcelevel/guidelines/blob/main/images/user_story_flow.png](https://github.com/sourcelevel/guidelines/blob/main/images/user_story_flow.png)
 

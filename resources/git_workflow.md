@@ -17,13 +17,13 @@ Now that you're familiar with `User Story`, let's understand how it reflects our
 
 First, we create a branch using `main` as the base with the following pattern:
 
-* `chddd/user-story-card-title`
+* `sc-ddd/user-story-card-title`
 
 Where `ddd` stands for Story Card number in Shortcut, check some examples of naming User Story branches:
 
-* `ch897/collect-issues-line-numbers`
-* `ch569/edit-reviewer-author`
-* `ch642/clustering-contribution-data`
+* `sc-897/collect-issues-line-numbers`
+* `sc-569/edit-reviewer-author`
+* `sc-642/clustering-contribution-data`
 
 #### More than a single branch
 
@@ -37,26 +37,26 @@ We have a User Story `Collect issues line numbers` which its number in Shortcut 
 In this case, we can start creating the branch for it using `main` as the base:
 
 ```
-git checkout -b ch123/collect-issues-line-numbers
+git checkout -b sc-123/collect-issues-line-numbers
 ```
 
 After analyzing the requirements we noticed that a single Pull Request would carry too many
 changes. So we've decided to break down our changes in n pull requests, to do so we start
-creating a new branch using `ch123/collect-issues-line-numbers` as the base, then create the
+creating a new branch using `sc-123/collect-issues-line-numbers` as the base, then create the
 new one:
 
 ```
-git checkout -b ch123/xz-add-database-migrations
+git checkout -b sc-123/xz-add-database-migrations
 ```
 
 Where `xz` stands for initials of developer, check some examples of naming sub User Story branches:
 
-* `ch321/wt-fix-reviews-count-in-repository-page`
-* `ch781/gg-remove-sales-machine-from-subscriptions`
+* `sc-321/wt-fix-reviews-count-in-repository-page`
+* `sc-781/gg-remove-sales-machine-from-subscriptions`
 
 If you developed that change in pair programming, you can use both initials ordered alphabetically:
 
-* `ch821/gg-wt-add-call-to-action-to-landing-page`
+* `sc-821/gg-wt-add-call-to-action-to-landing-page`
 
 Note that you're able to open new branches and Pull Requests as you consider necessary on working in a User Story card.
 To decide that, always keep in mind: how easy would be to review your code, so Pull Request size will be your guide.
